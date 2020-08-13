@@ -3,7 +3,7 @@ const {Client, Attachment} = require('discord.js');
 const bot = new Client();
 const client = new Discord.Client();
 
-const token = 'NzQwOTU0MTMzMDMyMzM3NDM4.XywhTw.gOSJVpPKmkbORugRgWNw3pcxFrw';
+const token = (censored)
 
 const PREFIX = '$';
 
