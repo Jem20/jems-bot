@@ -1,5 +1,5 @@
 {
-  "name": "jems-music-bot",
+  "name": "Quackceler",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.2.0",
-    "imageapi.js": "^1.0.10"
+    "imageapi.js": "^1.0.10",
+    "ms": "^2.1.2"
   }
 }
