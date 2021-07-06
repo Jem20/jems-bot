@@ -1,2 +1,2 @@
-# The Quackceler
-This project will no longer be mantained or updated.
+# Jem's Bot
+My main bot used for discord, this page is just meant for display and personal reasons.
