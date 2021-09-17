@@ -1,16 +1,22 @@
 {
-  "name": "Quackceler",
+  "name": "jems-bot",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "My old bot",
+  "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "a"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jem20/jems-bot.git"
   },
   "author": "Jem",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jem20/jems-bot/issues"
+  },
+  "homepage": "https://github.com/Jem20/jems-bot#readme",
   "dependencies": {
-    "discord.js": "^12.2.0",
-    "imageapi.js": "^1.0.10",
-    "ms": "^2.1.2"
+    "discord.js": "^12.5.3"
   }
 }
